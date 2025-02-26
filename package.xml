@@ -9,6 +9,9 @@
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
+  <depend>arcs_cohort_mapper</depend>
+  <depend>arcs_cohort_object_detector</depend>
+
   <export>
     <build_type>ament_cmake</build_type>
   </export>
