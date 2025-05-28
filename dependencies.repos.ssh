@@ -2,15 +2,15 @@ repositories:
   arcs_cohort_sensor_preprocessor:
     type: git
     url: git@github.com:csun-arcs/arcs_cohort_sensor_preprocessor.git
-    version: main
+    version: humble/main
   #
   # TODO: The following packages have not yet been implemented.
   #
   # arcs_cohort_mapper:
   #   type: git
   #   url: git@github.com:csun-arcs/arcs_cohort_mapper.git
-  #   version: main
+  #   version: humble/main
   # arcs_cohort_object_detector:
   #   type: git
   #   url: git@github.com:csun-arcs/arcs_cohort_object_detector.git
-  #   version: main
+  #   version: humble/main
